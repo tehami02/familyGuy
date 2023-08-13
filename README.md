@@ -11,7 +11,7 @@ And a Quiz about them.
 To get started with the project in your local development environment, follow
 these steps:
 
-1.Fork and Clone the repository to your local machine.
+1. Fork and Clone the repository to your local machine.
 
 ```bash
 https://github.com/your-username/familyGuy.git
